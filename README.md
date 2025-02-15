@@ -2,8 +2,6 @@
 
 This project uses a pre-trained YOLOv5 model to detect and classify hand gestures in real-time via a webcam feed. The goal is to recognize different sign language gestures with high accuracy and display relevant metrics.
 
-## DEMO OF THIS PROJECT
-- https://youtu.be/Mt7fet5Ib3Q
 
 ## Features
 - Real-time sign language detection from live video feed using YOLOv5.
